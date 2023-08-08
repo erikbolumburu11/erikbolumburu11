@@ -2,8 +2,6 @@
 <h2 align="center">A passionate game developer studying at the University of Sussex</h2>
 
 - 📫  **[Email](erikbolumburu11@gmail.com)**
-
-- 📄 **[Resume](https://drive.google.com/file/d/1itFiYfxfBaRyI1oDf6pXXyXeY2LRPjPX/view?usp=sharing)**
   
 ### ⭐ My Favourite Projects
   - 🏯 **[Touhou Clone Engine](https://github.com/erikbolumburu11/Touhou-Clone-Engine)**
