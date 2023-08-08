@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik Bolumburu</h1>
 <h2 align="center">A passionate game developer studying at the University of Sussex</h2>
 
-- 📫  **[Email](erikbolumburu11@gmail.com)**
+- 📫  **erikbolumburu11@gmail.com**
   
 ### ⭐ My Favourite Projects
   - 🏯 **[Touhou Clone Engine](https://github.com/erikbolumburu11/Touhou-Clone-Engine)**
