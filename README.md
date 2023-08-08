@@ -5,7 +5,7 @@
 
 - 📄 **[Resume](https://drive.google.com/file/d/1itFiYfxfBaRyI1oDf6pXXyXeY2LRPjPX/view?usp=sharing)**
   
-### ⭐ My favourite projects
+### ⭐ My Favourite Projects
   - 🏯 **[Touhou Clone Engine](https://github.com/erikbolumburu11/Touhou-Clone-Engine)**
   - 🎥 **[OpenGL Renderer](https://github.com/erikbolumburu11/OpenGL-Engine)**
   - ⛏️ **[Rimworld Clone](https://github.com/erikbolumburu11/RimWorld_Clone)**
