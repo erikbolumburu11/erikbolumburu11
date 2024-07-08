@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Erik Bolumburu</h1>
-<h2 align="center">A passionate game developer studying at the University of Sussex</h2>
+<h1 align="left">Hi 👋, I'm Erik Bolumburu</h1>
+<h2 align="left">Game Developer & Student</h2>
 
 - 📫  **erikbolumburu11@gmail.com**
   
