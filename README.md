@@ -6,4 +6,4 @@
 ### ⭐ My Favourite Projects
   - 🏯 **[Touhou Clone Engine](https://github.com/erikbolumburu11/Touhou-Clone-Engine)**
   - 🎥 **[OpenGL Renderer](https://github.com/erikbolumburu11/OpenGL-Engine)**
-  - ⛏️ **[Rimworld Clone](https://github.com/erikbolumburu11/RimWorld_Clone)**
+  - ⚔ **[Unity Soulslike](https://github.com/erikbolumburu11/Unity-Soulslike)**
