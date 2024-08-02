@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Erik Bolumburu</h1>
+<h1 align="left">👋 Hi, I'm Erik Bolumburu</h1>
 <h2 align="left">Game Developer & Student</h2>
 
 - 📫  **erikbolumburu11@gmail.com**
