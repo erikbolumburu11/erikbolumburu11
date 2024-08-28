@@ -5,6 +5,6 @@
   
 ### ⭐ My Favourite Projects
   - 🏯 **[Touhou Clone Engine](https://github.com/erikbolumburu11/Touhou-Clone-Engine)**
+  - ♟ **[Multiplayer Tactics RPG](https://github.com/erikbolumburu11/Multiplayer-TRPG)**
   - 🎥 **[OpenGL Renderer](https://github.com/erikbolumburu11/OpenGL-Engine)**
   - ⚔ **[Unity Soulslike](https://www.youtube.com/watch?v=rWX3fL7Q7eE)**
-  - ♟ **[Multiplayer Tactics RPG](https://github.com/erikbolumburu11/Multiplayer-TRPG)**
