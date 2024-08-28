@@ -2,6 +2,7 @@
 <h2 align="left">Game Developer & Student</h2>
 
 - 📫  **erikbolumburu11@gmail.com**
+- 📽 **[Youtube Channel](https://www.youtube.com/@erikbolumburu1386)**
   
 ### ⭐ My Favourite Projects
   - 🏯 **[Touhou Clone Engine](https://github.com/erikbolumburu11/Touhou-Clone-Engine)**
