@@ -1,5 +1,5 @@
 <h1 align="left">Erik Bolumburu</h1>
-<h2 align="left">Game Developer & Student</h2>
+<h2 align="left">Game & Web Developer</h2>
 
 - 📫  **erikbolumburu11@gmail.com**
 - 📄 **[My Portfolio](https://erikbolumburu.com)**
